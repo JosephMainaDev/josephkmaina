@@ -2,148 +2,98 @@
 
 #### Welcome to my profile.
 
-I am **Joseph Maina**, a self-taught full-stack developer from Kenya. I work as a technical trainer in a TVET institution. I am looking for an opportunity to shift to software development on full-time or part-time basis.
+I am **Joseph Maina**, a self-taught full-stack developer from Kenya. I work as a technical trainer in a TVET institution. I am looking for an opportunity to shift to software development.
+
 
 ## Technical Skills
 
 In the journey of learning how to code, I have worked with different technologies. These are some of them:
 
-<details>
- <summary><h4>Languages</h4></summary>
- <ul>
-  <li>HTML / CSS</li>
-  <li>Python</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
- </ul>
-</details>
+**Methodologies:** TDD, CRUD Operations, RESTful Architecture, Responsive Web, MVC, OOP
 
-<details>
- <summary><h4>Runtime Environment</h4></summary>
- <ul>
-  <li>Node.js</li>
- </ul>
-</details>
+**Frameworks:** Express, Flask, Bootstap, Tailwind, Next.js, Gatsby
 
-<details>
- <summary><h4>Version Control</h4></summary>
- <ul>
-  <li>Git</li>
-  <li>GitHub</li>
- </ul>
-</details>
+**Languages:** HTML / CSS, Python, JavaScript, TypeScript
 
-<details>
- <summary><h4>Frameworks</h4></summary>
- <ul>
-  <li>Express</li>
-  <li>Flask</li>
-  <li>Bootstap</li>
-  <li>Tailwind</li>
-  <li>Next.js</li>
-  <li>Gatsby</li>
- </ul>
-</details>
+**Databases:** MongoDB, SQLite, PostgreSQL
 
-<details>
- <summary><h4>Libraries</h4></summary>
- <ul>
-  <li>Mongoose</li>
-  <li>React</li>
- </ul>
-</details>
+**Platforms:** Replit, CodePen, Hoppscotch
 
-<details>
- <summary><h4>Package Managers</h4></summary>
- <ul>
-  <li>npm</li>
-  <li>Yarn</li>
- </ul>
-</details>
+**Testing:** Mocha, Chai, Jest, Cypress
 
-<details>
- <summary><h4>Databases</h4></summary>
- <ul>
-  <li>MongoDB</li>
-  <li>SQLite</li>
-  <li>PostgreSQL</li>
- </ul>
-</details>
+**Runtime environment:** Node.js
 
-<details>
- <summary><h4>Dev Tools</h4></summary>
- <ul>
-  <li>VS Code</li>
- </ul>
-</details>
+**Package managers:** npm, Yarn
 
-<details>
- <summary><h4>Platforms</h4></summary>
- <ul>
-  <li>Replit</li>
-  <li>CodePen</li>
-  <li>Hoppscotch</li>
- </ul>
-</details>
+**Version Control:** Git, GitHub
 
-<details>
- <summary><h4>Methodologies</h4></summary>
- <ul>
-  <li>TDD</li>
-  <li>CRUD Operations</li>
-  <li>RESTful Architecture</li>
-  <li>Responsive Web</li>
-  <li>MVC</li>
-  <li>OOP</li>
- </ul>
-</details>
+**Libraries:** Mongoose, React
 
-<details>
- <summary><h4>Testing</h4></summary>
- <ul>
-  <li>Mocha</li>
-  <li>Chai</li>
-  <li>Jest</li>
-  <li>Cypress</li>
- </ul>
-</details>
+**Dev Tools:** VS Code
+
 
 ## Certifications
 
-#### Responsive Web Design
- * Tribute Page
- * Survey Form
- * Product Landing Page
- * Technical Documentation Page
- * Personal Portfolio Webpage
+**Responsive Web Design** (Technologies used: _HTML, CSS, Bootstrap_)
+<details>
+ <summary><em>Designed and developed 5 projects for the responsive web design certification:</em></summary>
+ <ul>
+  <li>Tribute Page</li>
+  <li>Survey Form</li>
+  <li>Product Landing Page</li>
+  <li>Technical Documentation Page</li>
+  <li>Personal Portfolio Webpage</li>
+ </ul>
+</details>
 
-#### JavaScript Algorithms and Data Structures
- * Palindrome Checker
- * Roman Numeral Converter
- * Caesar's Cipher
- * Telephone Number Validator
- * Cash Register
+**JavaScript Algorithms and Data Structures** (Technologies used: _JavaScript_)
+<details>
+ <summary><em>Applied JavaScript to complete 5 projects:</em></summary>
+ <ul>
+  <li>Palindrome Checker</li>
+  <li>Roman Numeral Converter</li>
+  <li>Caesar's Cipher</li>
+  <li>Telephone Number Validator</li>
+  <li>Cash Register</li>
+ </ul>
+</details>
 
-#### Front End Libraries
- * Random Quote Machine
- * Markdown Previewer
- * Drum Machine
- * JavaScript Calculator
- * 25 + 5 Clock
+**Front End Libraries** (Technologies used: _Bootstrap, JavaScript, React_)
+<details>
+ <summary><em>Completed 5 projects that required React and JavaScript:</em></summary>
+ <ul>
+  <li>Random Quote Machine</li>
+  <li>Markdown Previewer</li>
+  <li>Drum Machine</li>
+  <li>JavaScript Calculator</li>
+  <li>25 + 5 Clock</li>
+ </ul>
+</details>
 
-#### Data Visualization
- * Bar Chart
- * Scatterplot Graph
- * Heat Map
- * Choropleth Map
- * Treemap Diagram
+**Data Visualization** (Technologies used: _SVG, JavaScript, React, D3.js_)
+<details>
+ <summary><em>Build 5 projects to present data with charts, graphs and maps:</em></summary>
+ <ul>
+  <li>Bar Chart</li>
+  <li>Scatterplot Graph</li>
+  <li>Heat Map</li>
+  <li>Choropleth Map</li>
+  <li>Treemap Diagram</li>
+ </ul>
+</details>
 
-#### APIs and Microservices
- * Timestamp Microservice
- * Request Header Parser
- * URL Shortener
- * Exercise Tracker
- * File Metadata Microservice
+**APIs and Microservices** (Technologies used: _JavaScript, Node, Express, MongoDB, Mongoose_)
+<details>
+ <summary><em>Build 5 back end web applications (microservice APIs):</em></summary>
+ <ul>
+  <li>Timestamp Microservice</li>
+  <li>Request Header Parser</li>
+  <li>URL Shortener</li>
+  <li>Exercise Tracker</li>
+  <li>File Metadata Microservice</li>
+ </ul>
+</details>
+
 
 ## Contact
 
@@ -180,33 +130,3 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
 -->
-
-## Technical Skills
-
-In the journey of learning how to code, I have worked with different technologies. These are some of them:
-
-
-**Methodologies:** TDD, CRUD Operations, RESTful Architecture, Responsive Web, MVC, OOP
-
-**Frameworks:** Express, Flask, Bootstap, Tailwind, Next.js, Gatsby
-
-**Languages:** HTML / CSS, Python, JavaScript, TypeScript
-
-**Databases:** MongoDB, SQLite, PostgreSQL
-
-**Platforms:** Replit, CodePen, Hoppscotch
-
-**Testing:** Mocha, Chai, Jest, Cypress
-
-**Runtime environment:** Node.js
-
-**Package managers:** npm, Yarn
-
-**Version Control:** Git, GitHub
-
-**Libraries:** Mongoose, React
-
-**Dev Tools:** VS Code
-
-
-
