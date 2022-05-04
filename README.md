@@ -180,3 +180,33 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
 -->
+
+## Technical Skills
+
+In the journey of learning how to code, I have worked with different technologies. These are some of them:
+
+
+**Methodologies:** TDD, CRUD Operations, RESTful Architecture, Responsive Web, MVC, OOP
+
+**Frameworks:** Express, Flask, Bootstap, Tailwind, Next.js, Gatsby
+
+**Languages:** HTML / CSS, Python, JavaScript, TypeScript
+
+**Databases:** MongoDB, SQLite, PostgreSQL
+
+**Platforms:** Replit, CodePen, Hoppscotch
+
+**Testing:** Mocha, Chai, Jest, Cypress
+
+**Runtime environment:** Node.js
+
+**Package managers:** npm, Yarn
+
+**Version Control:** Git, GitHub
+
+**Libraries:** Mongoose, React
+
+**Dev Tools:** VS Code
+
+
+
