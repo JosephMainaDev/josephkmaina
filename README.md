@@ -108,7 +108,31 @@ In the journey of learning how to code, I have worked with different technologie
  </ul>
 </details>
 
+<details>
+ <summary><h4>Testing</h4></summary>
+ <ul>
+  <li>Mocha</li>
+  <li>Chai</li>
+  <li>Jest</li>
+  <li>Cypress</li>
+ </ul>
+</details>
+
 ## Certifications
+
+These certificates were awarded from freeCodeCamp.org after completing the listed projects.
+
+<details>
+ <summary><h4>Responsive Web Design</h4></summary>
+ <p>
+  
+  Description                                                  | Technology used    | Projects completed
+  -----------                                                  | ---------------    | ------------------
+  Responsive description                                       | CSS, HTML          | Tribute page
+  
+ </p>
+</details>
+
 
 #### Responsive Web Design
  * Tribute Page
