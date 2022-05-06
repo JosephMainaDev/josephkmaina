@@ -2,7 +2,7 @@
 
 #### Welcome to my profile.
 
-I am **Joseph Maina**, a self-taught full-stack developer from Kenya. I work as a technical trainer in a TVET institution. I am looking for an opportunity to shift to software development.
+I am **Joseph Maina**, a self-taught full-stack developer from Kenya. I work as a technical trainer in a TVET institution and seeking a software development role.
 
 
 ## Technical Skills
