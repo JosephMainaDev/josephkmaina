@@ -2,7 +2,7 @@
 
 #### Welcome to my profile.
 
-I am **Joseph Maina**, a self-taught full stack web developer from Kenya. I work as a technical trainer in a TVET institution. I am seeking a software development role where I can produce value for clients by developing applications using modern tools and best practices.
+I am **Kimani Maina**, a self-taught full stack web developer from Kenya. I work as a technical trainer in a TVET institution. I am seeking a software development role where I can produce value for clients by developing applications using modern tools and best practices.
 
 
 ## Technical Skills
