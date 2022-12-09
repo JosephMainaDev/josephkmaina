@@ -97,7 +97,7 @@ In the journey of learning how to code, I have worked with different technologie
 
 ## Contact
 
-Please check my profile on **LinkedIn** [@jmkimani1](https://www.linkedin.com/in/jmkimani1/).
+Please check my profile on **LinkedIn** [@josephkmaina](https://www.linkedin.com/in/josephkmaina/).
 
 And follow me on **Twitter** [@mainadotkim](https://twitter.com/mainadotkim).
 
